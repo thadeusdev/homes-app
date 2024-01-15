@@ -36,32 +36,16 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "src/app/housing-location/housing-location.component.html",
-        "hash": "3176620235243798108"
+        "file": "src/app/details/details.component.html",
+        "hash": "17768432606611492536"
       },
       {
-        "file": "src/app/app.component.html",
-        "hash": "250264183049193734"
-      },
-      {
-        "file": "src/app/app.component.ts",
-        "hash": "2681037070815121278"
-      },
-      {
-        "file": "src/app/details/details.component.css",
-        "hash": "2817905370726311177"
-      },
-      {
-        "file": "src/app/housing-location/housing-location.component.ts",
-        "hash": "6694177724045375217"
+        "file": "src/app/housing.service.ts",
+        "hash": "13690283679074639357"
       },
       {
         "file": "src/app/details/details.component.ts",
-        "hash": "15110536570151966613"
-      },
-      {
-        "file": "src/app/details/details.component.html",
-        "hash": "14604115557276831781"
+        "hash": "12816304061402388813"
       }
     ],
     "projectFileMap": {
@@ -142,7 +126,7 @@
         },
         {
           "file": "src/app/app.component.html",
-          "hash": "9646219193081259318"
+          "hash": "250264183049193734"
         },
         {
           "file": "src/app/app.component.spec.ts",
@@ -153,7 +137,7 @@
         },
         {
           "file": "src/app/app.component.ts",
-          "hash": "2943534963693282628",
+          "hash": "2681037070815121278",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -177,11 +161,11 @@
         },
         {
           "file": "src/app/details/details.component.css",
-          "hash": "4055606894390288348"
+          "hash": "2817905370726311177"
         },
         {
           "file": "src/app/details/details.component.html",
-          "hash": "9616826081329972315"
+          "hash": "14604115557276831781"
         },
         {
           "file": "src/app/details/details.component.spec.ts",
@@ -192,10 +176,11 @@
         },
         {
           "file": "src/app/details/details.component.ts",
-          "hash": "11423410876918667661",
+          "hash": "15110536570151966613",
           "deps": [
             "npm:@angular/core",
-            "npm:@angular/common"
+            "npm:@angular/common",
+            "npm:@angular/router"
           ]
         },
         {
@@ -227,7 +212,7 @@
         },
         {
           "file": "src/app/housing-location/housing-location.component.html",
-          "hash": "6038961142859285689"
+          "hash": "3176620235243798108"
         },
         {
           "file": "src/app/housing-location/housing-location.component.spec.ts",
@@ -238,9 +223,11 @@
         },
         {
           "file": "src/app/housing-location/housing-location.component.ts",
-          "hash": "10732940388871637087",
+          "hash": "6694177724045375217",
           "deps": [
-            "npm:@angular/core"
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router"
           ]
         },
         {
