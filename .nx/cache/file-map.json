@@ -37,19 +37,11 @@
     "nonProjectFiles": [
       {
         "file": "src/app/details/details.component.ts",
-        "hash": "8092041914169314339"
-      },
-      {
-        "file": "db.json",
-        "hash": "7700017286686779883"
-      },
-      {
-        "file": "src/app/housing.service.ts",
-        "hash": "5820678343057145531"
+        "hash": "357057370483767039"
       },
       {
         "file": "src/app/home/home.component.ts",
-        "hash": "9787141418074915935"
+        "hash": "14099781933500556773"
       }
     ],
     "projectFileMap": {
@@ -77,6 +69,10 @@
         {
           "file": "README.md",
           "hash": "10228120454960464864"
+        },
+        {
+          "file": "db.json",
+          "hash": "7700017286686779883"
         },
         {
           "file": "nx.json",
@@ -180,7 +176,7 @@
         },
         {
           "file": "src/app/details/details.component.ts",
-          "hash": "12816304061402388813",
+          "hash": "8092041914169314339",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -205,7 +201,7 @@
         },
         {
           "file": "src/app/home/home.component.ts",
-          "hash": "1133189619827285275",
+          "hash": "9787141418074915935",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common"
@@ -237,7 +233,7 @@
         },
         {
           "file": "src/app/housing.service.ts",
-          "hash": "13690283679074639357",
+          "hash": "5820678343057145531",
           "deps": [
             "npm:@angular/core"
           ]
