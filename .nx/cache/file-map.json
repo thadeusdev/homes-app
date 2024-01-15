@@ -36,28 +36,32 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "src/app/details/details.component.spec.ts",
-        "hash": "15180683706862005140"
-      },
-      {
-        "file": "src/app/details/details.component.css",
-        "hash": "4055606894390288348"
+        "file": "src/app/housing-location/housing-location.component.html",
+        "hash": "3176620235243798108"
       },
       {
         "file": "src/app/app.component.html",
-        "hash": "9646219193081259318"
+        "hash": "250264183049193734"
       },
       {
-        "file": "src/app/app.routes.ts",
-        "hash": "13284887662828999214"
+        "file": "src/app/app.component.ts",
+        "hash": "2681037070815121278"
+      },
+      {
+        "file": "src/app/details/details.component.css",
+        "hash": "2817905370726311177"
+      },
+      {
+        "file": "src/app/housing-location/housing-location.component.ts",
+        "hash": "6694177724045375217"
       },
       {
         "file": "src/app/details/details.component.ts",
-        "hash": "11423410876918667661"
+        "hash": "15110536570151966613"
       },
       {
         "file": "src/app/details/details.component.html",
-        "hash": "9616826081329972315"
+        "hash": "14604115557276831781"
       }
     ],
     "projectFileMap": {
@@ -138,7 +142,7 @@
         },
         {
           "file": "src/app/app.component.html",
-          "hash": "3223340362221895239"
+          "hash": "9646219193081259318"
         },
         {
           "file": "src/app/app.component.spec.ts",
@@ -166,9 +170,32 @@
         },
         {
           "file": "src/app/app.routes.ts",
-          "hash": "12397496131277534773",
+          "hash": "13284887662828999214",
           "deps": [
             "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/details/details.component.css",
+          "hash": "4055606894390288348"
+        },
+        {
+          "file": "src/app/details/details.component.html",
+          "hash": "9616826081329972315"
+        },
+        {
+          "file": "src/app/details/details.component.spec.ts",
+          "hash": "15180683706862005140",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/details/details.component.ts",
+          "hash": "11423410876918667661",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
           ]
         },
         {
