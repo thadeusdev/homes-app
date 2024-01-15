@@ -1,0 +1,638 @@
+[36m⠋[39m Building...
+[2K[1G[1A[2K[1G[36m⠙[39m Building...
+[2K[1G[1A[2K[1G[36m⠹[39m Building...
+[2K[1G[1A[2K[1G[36m⠸[39m Building...
+[2K[1G[1A[2K[1G[36m⠼[39m Building...
+[2K[1G[1A[2K[1G[36m⠴[39m Building...
+[2K[1G[1A[2K[1G[36m⠦[39m Building...
+[2K[1G[1A[2K[1G[36m⠧[39m Building...
+[2K[1G[1A[2K[1G[36m⠇[39m Building...
+[2K[1G[1A[2K[1G[36m⠏[39m Building...
+[2K[1G[1A[2K[1G[36m⠋[39m Building...
+[2K[1G[1A[2K[1G[36m⠙[39m Building...
+[2K[1G[1A[2K[1G[36m⠹[39m Building...
+[2K[1G[1A[2K[1G[36m⠸[39m Building...
+[2K[1G[1A[2K[1G[36m⠼[39m Building...
+[2K[1G[1A[2K[1G[36m⠴[39m Building...
+[2K[1G[1A[2K[1G[36m⠦[39m Building...
+[2K[1G[1A[2K[1G[36m⠧[39m Building...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m83.46 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m[96m13.49 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m95 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m97.04 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [1.394 seconds][39m
+[37mWatch mode enabled. Watching for file changes...[39m
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠹[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠸[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.310 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.149 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m13.49 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.153 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1128: Declaration or statement expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:5:0:[39m[22m
+[1m[31m[37m      5 │ [32mimport[37m[39m[22m
+[1m[31m        ╵ [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.114 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2305: Module '"./home/home.component"' has no exported member 'HomeComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.ts:4:9:[39m[22m
+[1m[31m[37m      4 │ import { [32mHomeComponent[37m } from './home/home.component';[39m[22m
+[1m[31m        ╵          [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS-991010: 'imports' must be an array of components, directives, pipes, or NgModules.[39m[22m
+[1m[31m  Value is of type '[CommonModule, RouterOutlet, (not statically analyzable)]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.ts:9:11:[39m[22m
+[1m[31m[37m      9 │   imports: [32m[CommonModule, RouterOutlet, HomeComponent][37m, //to descri...[39m[22m
+[1m[31m        ╵            [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: 'from' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:7:0:[39m[22m
+[1m[31m[37m      7 │ [32m@[37mComponent({[39m[22m
+[1m[31m        ╵ [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1141: String literal expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:14:13:[39m[22m
+[1m[31m[37m      14 │ export class [32mHomeComponent[37m {[39m[22m
+[1m[31m         ╵              [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.139 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠹[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m83.46 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m[96m13.49 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m95 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m97.04 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.196 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m10.93 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.147 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠹[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.165 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠹[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.161 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.136 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.130 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠹[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS7008: Member 'con' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:19:2:[39m[22m
+[1m[31m[37m      19 │   [32mcon[37m[39m[22m
+[1m[31m         ╵   [32m~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.201 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2390: Constructor implementation is missing.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:19:2:[39m[22m
+[1m[31m[37m      19 │   [32mconstructor[37m[39m[22m
+[1m[31m         ╵   [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: '(' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:0:[39m[22m
+[1m[31m[37m      20 │ [32m}[37m[39m[22m
+[1m[31m         ╵ [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.138 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2390: Constructor implementation is missing.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:19:2:[39m[22m
+[1m[31m[37m      19 │   [32mconstructor()[37m[39m[22m
+[1m[31m         ╵   [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.148 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m83.46 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m[96m10.93 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m95 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m94.49 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.113 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.090 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'th'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:4:[39m[22m
+[1m[31m[37m      20 │     [32mth[37m[39m[22m
+[1m[31m         ╵     [32m~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.112 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mExpected identifier but found ";"[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:17:8:[39m[22m
+[1m[31m[37m      17 │         [32m;[37m[39m[22m
+[1m[31m         ╵         [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1003: Identifier expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:2:[39m[22m
+[1m[31m[37m      21 │   [32m}[37m[39m[22m
+[1m[31m         ╵   [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.110 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m83.46 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m[96m10.96 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m95 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m94.52 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.150 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mUnexpected ";"[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:17:8:[39m[22m
+[1m[31m[37m      17 │         [32m;[37m[39m[22m
+[1m[31m         ╵         [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1109: Expression expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:2:[39m[22m
+[1m[31m[37m      21 │   [32m}[37m[39m[22m
+[1m[31m         ╵   [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.118 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'this' is not assignable to type 'Housinglocation[]'.[39m[22m
+[1m[31m  Type 'HomeComponent' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:4:[39m[22m
+[1m[31m[37m      20 │     [32mthis.housingLocationList[37m = this[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.086 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'housing' does not exist on type 'HomeComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:36:[39m[22m
+[1m[31m[37m      20 │     this.housingLocationList = this.[32mhousing[37m[39m[22m
+[1m[31m         ╵                                     [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.114 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠹[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'housingS' does not exist on type 'HomeComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:36:[39m[22m
+[1m[31m[37m      20 │     this.housingLocationList = this.[32mhousingS[37m[39m[22m
+[1m[31m         ╵                                     [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.164 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'housingS' does not exist on type 'HomeComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:36:[39m[22m
+[1m[31m[37m      20 │     this.housingLocationList = this.[32mhousingS[37m  }[39m[22m
+[1m[31m         ╵                                     [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.134 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'housingS' does not exist on type 'HomeComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:36:[39m[22m
+[1m[31m[37m      20 │     this.housingLocationList = this.[32mhousingS[37m[39m[22m
+[1m[31m         ╵                                     [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.111 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'this' is not assignable to type 'Housinglocation[]'.[39m[22m
+[1m[31m  Type 'HomeComponent' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:4:[39m[22m
+[1m[31m[37m      20 │     [32mthis.housingLocationList[37m = this[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.152 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'this' is not assignable to type 'Housinglocation[]'.[39m[22m
+[1m[31m  Type 'HomeComponent' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis.housingLocationList[37m = this[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.113 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS7008: Member 'housing' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:18:2:[39m[22m
+[1m[31m[37m      18 │   [32mhousing[37m[39m[22m
+[1m[31m         ╵   [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'this' is not assignable to type 'Housinglocation[]'.[39m[22m
+[1m[31m  Type 'HomeComponent' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis.housingLocationList[37m = this[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.081 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS7008: Member 'housingService' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:18:2:[39m[22m
+[1m[31m[37m      18 │   [32mhousingService[37m[39m[22m
+[1m[31m         ╵   [32m~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'this' is not assignable to type 'Housinglocation[]'.[39m[22m
+[1m[31m  Type 'HomeComponent' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis.housingLocationList[37m = this[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.121 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠹[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2552: Cannot find name 'constructor'. Did you mean 'MapConstructor'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:2:[39m[22m
+[1m[31m[37m      20 │   [32mconstructor[37m() {[39m[22m
+[1m[31m         ╵   [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1441: Cannot start a function call in a type annotation.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:13:[39m[22m
+[1m[31m[37m      20 │   constructor[32m([37m) {[39m[22m
+[1m[31m         ╵              [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1068: Unexpected token. A constructor, method, accessor, or property was expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:14:[39m[22m
+[1m[31m[37m      20 │   constructor([32m)[37m {[39m[22m
+[1m[31m         ╵               [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1068: Unexpected token. A constructor, method, accessor, or property was expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:16:[39m[22m
+[1m[31m[37m      20 │   constructor() [32m{[37m[39m[22m
+[1m[31m         ╵                 [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2532: Object is possibly 'undefined'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis[37m.housingLocationList = this[39m[22m
+[1m[31m         ╵     [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1128: Declaration or statement expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:23:0:[39m[22m
+[1m[31m[37m      23 │ [32m}[37m[39m[22m
+[1m[31m         ╵ [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.183 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'H'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:18:18:[39m[22m
+[1m[31m[37m      18 │   housingService: [32mH[37m[39m[22m
+[1m[31m         ╵                   [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'this' is not assignable to type 'Housinglocation[]'.[39m[22m
+[1m[31m  Type 'HomeComponent' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis.housingLocationList[37m = this[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.134 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠹[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'Housing'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:18:18:[39m[22m
+[1m[31m[37m      18 │   housingService: [32mHousing[37m[39m[22m
+[1m[31m         ╵                   [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'this' is not assignable to type 'Housinglocation[]'.[39m[22m
+[1m[31m  Type 'HomeComponent' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis.housingLocationList[37m = this[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.172 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2564: Property 'housingService' has no initializer and is not definitely assigned in the constructor.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:18:2:[39m[22m
+[1m[31m[37m      18 │   [32mhousingService[37m: HousingService[39m[22m
+[1m[31m         ╵   [32m~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'this' is not assignable to type 'Housinglocation[]'.[39m[22m
+[1m[31m  Type 'HomeComponent' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis.housingLocationList[37m = this[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.143 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠹[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2662: Cannot find name 'constructor'. Did you mean the static member 'HomeComponent.constructor'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:2:[39m[22m
+[1m[31m[37m      20 │   [32mconstructor[37m() {[39m[22m
+[1m[31m         ╵   [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ';' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:20:16:[39m[22m
+[1m[31m[37m      20 │   constructor() [32m{[37m[39m[22m
+[1m[31m         ╵                 [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2532: Object is possibly 'undefined'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis[37m.housingLocationList = this[39m[22m
+[1m[31m         ╵     [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1128: Declaration or statement expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:23:0:[39m[22m
+[1m[31m[37m      23 │ [32m}[37m[39m[22m
+[1m[31m         ╵ [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.185 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type '{ <T>(token: ProviderToken<T>): T; <T>(token: ProviderToken<T>, flags?: InjectFlags | undefined): T | null; <T>(token: ProviderToken<T>, options: InjectOptions & { ...; }): T; <T>(token: ProviderToken<...>, options: InjectOptions): T | null; }' is not assignable to type 'HousingService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:18:2:[39m[22m
+[1m[31m[37m      18 │   [32mhousingService[37m: HousingService = inject[39m[22m
+[1m[31m         ╵   [32m~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'this' is not assignable to type 'Housinglocation[]'.[39m[22m
+[1m[31m  Type 'HomeComponent' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis.housingLocationList[37m = this[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.138 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠹[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2554: Expected 1-2 arguments, but got 0.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:18:35:[39m[22m
+[1m[31m[37m      18 │   housingService: HousingService = [32minject()[37m[39m[22m
+[1m[31m         ╵                                    [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  An argument for 'token' was not provided.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    node_modules/@angular/core/index.d.ts:4893:34:[39m[22m
+[1m[31m[37m      4893 │ export declare function inject<T>([32mtoken: ProviderToken<T>[37m): T;[39m[22m
+[1m[31m           ╵                                   [32m~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'this' is not assignable to type 'Housinglocation[]'.[39m[22m
+[1m[31m  Type 'HomeComponent' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis.housingLocationList[37m = this[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.174 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'H'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:18:42:[39m[22m
+[1m[31m[37m      18 │   housingService: HousingService = inject([32mH[37m)[39m[22m
+[1m[31m         ╵                                           [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'this' is not assignable to type 'Housinglocation[]'.[39m[22m
+[1m[31m  Type 'HomeComponent' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis.housingLocationList[37m = this[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.114 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'this' is not assignable to type 'Housinglocation[]'.[39m[22m
+[1m[31m  Type 'HomeComponent' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis.housingLocationList[37m = this[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.108 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'h' does not exist on type 'HomeComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:36:[39m[22m
+[1m[31m[37m      21 │     this.housingLocationList = this.[32mh[37m[39m[22m
+[1m[31m         ╵                                     [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.152 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2740: Type 'HousingService' is missing the following properties from type 'Housinglocation[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:4:[39m[22m
+[1m[31m[37m      21 │     [32mthis.housingLocationList[37m = this.housingService[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.121 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'get' does not exist on type 'HousingService'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:51:[39m[22m
+[1m[31m[37m      21 │     this.housingLocationList = this.housingService.[32mget[37m[39m[22m
+[1m[31m         ╵                                                    [32m~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.113 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type '() => Housinglocation[]' is not assignable to type 'Housinglocation[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:31:[39m[22m
+[1m[31m[37m      21 │ ...s.housingLocationList = [32mthis.housingService.getAllHousingLocations[37m[39m[22m
+[1m[31m         ╵                            [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Did you mean to call this expression?[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/home/home.component.ts:21:31:[39m[22m
+[1m[31m[37m      21 │ ...s.housingLocationList = [32mthis.housingService.getAllHousingLocations[37m[39m[22m
+[1m[31m         ╵                            [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.078 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m83.46 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m[96m14.46 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m95 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m98.01 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.115 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m⠋[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m⠙[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.134 seconds][39m
