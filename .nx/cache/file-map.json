@@ -36,16 +36,12 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "src/app/details/details.component.html",
-        "hash": "17768432606611492536"
+        "file": "src/app/home/home.component.ts",
+        "hash": "1133189619827285275"
       },
       {
-        "file": "src/app/housing.service.ts",
-        "hash": "13690283679074639357"
-      },
-      {
-        "file": "src/app/details/details.component.ts",
-        "hash": "12816304061402388813"
+        "file": "src/app/home/home.component.html",
+        "hash": "4878158032895562191"
       }
     ],
     "projectFileMap": {
@@ -165,7 +161,7 @@
         },
         {
           "file": "src/app/details/details.component.html",
-          "hash": "14604115557276831781"
+          "hash": "17768432606611492536"
         },
         {
           "file": "src/app/details/details.component.spec.ts",
@@ -176,11 +172,12 @@
         },
         {
           "file": "src/app/details/details.component.ts",
-          "hash": "15110536570151966613",
+          "hash": "12816304061402388813",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
-            "npm:@angular/router"
+            "npm:@angular/router",
+            "npm:@angular/forms"
           ]
         },
         {
@@ -232,7 +229,7 @@
         },
         {
           "file": "src/app/housing.service.ts",
-          "hash": "11424910526663120815",
+          "hash": "13690283679074639357",
           "deps": [
             "npm:@angular/core"
           ]
